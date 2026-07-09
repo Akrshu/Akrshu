@@ -1,3 +1,8 @@
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Campus+Hub;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</p>
 <h1 align="center">Hi 👋, I'm Arshiya Sharma</h1>
 
 <h3 align="center">
@@ -36,6 +41,14 @@ Git • GitHub • VS Code • Postman
 
 ---
 
+ ## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Akrshu&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akrshu&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akrshu&layout=compact&theme=tokyonight)
+
 # 🌟 Featured Projects
 
 ## 🏫 Campus Hub
@@ -59,3 +72,6 @@ Research-driven public safety project integrating AI, Networking and Cybersecuri
 #  Connect
 
 - GitHub : https://github.com/Akrshu
+
+
+---

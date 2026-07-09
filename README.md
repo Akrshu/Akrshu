@@ -1,18 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Arshiya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=ARSHIYA%20SHARMA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=62"/>
 
 # 👋 Hi, I'm Arshiya Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;MERN+Stack+Developer;Building+Campus+Hub;Learning+DSA+%26+System+Design"/>
+### 🚀 Full Stack Developer • 🔐 Cybersecurity Enthusiast • 💻 B.Tech CSE
 
-<p>
-🎓 <b>B.Tech CSE (Cybersecurity)</b><br>
-💻 MERN Stack Developer<br>
-🔐 Passionate about Secure Systems<br>
-🚀 Currently Building <b>Campus Hub</b><br>
-🛡 Researching <b>Project Suraksha Bharat</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Campus+Hub;Researching+Project+Suraksha+Bharat;Learning+DSA+%26+System+Design;Always+Building+Something+New"/>
 
 </div>
 
@@ -20,12 +14,30 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech CSE (Cybersecurity)
-- 💻 Full Stack MERN Developer
-- 🔐 Interested in Cybersecurity & Secure Web Applications
-- 🧠 Learning DSA, System Design & Cloud
-- 🌍 Love building real-world engineering projects
-- 🤝 Open to collaboration on impactful projects
+```yaml
+Name: Arshiya Sharma
+
+Education:
+  - B.Tech CSE (Cybersecurity)
+
+Role:
+  - MERN Stack Developer
+
+Currently Working On:
+  - Campus Hub
+  - Project Suraksha Bharat
+
+Learning:
+  - DSA
+  - System Design
+  - Cloud
+  - Networking
+
+Interests:
+  - Full Stack Development
+  - Cybersecurity
+  - Computer Vision
+```
 
 ---
 
@@ -33,47 +45,35 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,cpp,c,python,git,github,vscode,linux,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,cpp,c,python,git,github,vscode,linux,docker,postman&perline=9"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
-
-```text
-✅ Campus Hub
-✅ Project Suraksha Bharat
-✅ DSA
-✅ System Design
-✅ Cloud Computing
-✅ Open Source
-```
-
----
-
-# 🌟 Featured Projects
+# 🌟 Current Projects
 
 ## 🎓 Campus Hub
 
-> A complete MERN-based student platform.
+> A complete student ecosystem built using MERN Stack.
 
-### ✨ Features
+### Features
 
 - 🛒 Student Marketplace
 - 📚 Tuition Portal
 - 💬 Real-Time Messaging
 - 🗺 Campus Navigation
-- 🔐 JWT Authentication
-- 📱 Responsive UI
+- 👤 Authentication
+- 📱 Responsive Design
 - ⚡ Fast REST APIs
 
 ---
-# 🛡 Project Suraksha Bharat
 
-> Research-driven Public Safety Engineering Initiative
+## 🛡 Project Suraksha Bharat
 
-### 🔬 Research Domains
+Technology-driven Public Safety Research Initiative.
+
+### Domains
 
 - 🤖 Artificial Intelligence
 - 👁 Computer Vision
@@ -82,107 +82,107 @@
 - ☁ Cloud Computing
 - 🏙 Smart Infrastructure
 
-**Mission:** Build technology that improves public safety through engineering and research.
-
 ---
 
-# 📚 Currently Learning
+# 🚀 Development Roadmap
 
-<div align="center">
+```text
+██████████░░░░░░░  MERN Stack          85%
 
-| Skill | Progress |
-|-------|----------|
-| DSA | 🟩🟩🟩🟩⬜ |
-| MERN Stack | 🟩🟩🟩🟩🟩 |
-| Cybersecurity | 🟩🟩🟩🟩⬜ |
-| System Design | 🟩🟩🟩⬜⬜ |
-| Cloud Computing | 🟩🟩⬜⬜⬜ |
+████████░░░░░░░░  Cybersecurity       70%
 
-</div>
+███████░░░░░░░░░  DSA                 65%
 
----
+██████░░░░░░░░░░ System Design        55%
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akrshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrshu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akrshu&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akrshu&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</div>
+█████░░░░░░░░░░░ Cloud                45%
+```
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Complete Campus Hub
-- 🔐 Master Cybersecurity
-- 📚 Solve 500+ DSA Problems
-- ☁ Learn AWS & Docker
-- 💼 Crack a Top Product Company
-- 🌍 Contribute to Open Source
+- ✅ Complete Campus Hub
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ 500+ LeetCode Problems
+- ✅ Open Source Contributions
+- ✅ Internship in Product Company
 
 ---
 
-# 🤝 Let's Connect
+# 📅 Currently Working On
 
-<div align="center">
+🟢 Campus Hub
+
+🟢 Project Suraksha Bharat
+
+🟢 DSA
+
+🟢 MERN Stack
+
+🟢 Cybersecurity
+
+---
+
+# 💻 IDE Setup
+
+```text
+Editor      :: VS Code
+
+OS          :: Windows
+
+Terminal    :: PowerShell
+
+Browser     :: Chrome
+
+Database    :: MongoDB
+```
+
+---
+
+# 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akrshu&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/Akrshu">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/arshiya-sharma-a43809325/">
+<a href="**https://www.linkedin.com/in/arshiya-sharma-a43809325/**">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:arshiyasharma848@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 👀 Visitors
 
 <img src="https://komarev.com/ghpvc/?username=Akrshu&style=for-the-badge&color=blue"/>
 
-</div>
-
 ---
 
 <div align="center">
 
-## 💙 "Technology should solve real problems."
+## ⭐ Thanks for visiting my profile!
 
-⭐ If you like my work, consider starring my repositories.
+**Keep Learning 🚀 Keep Building 💙**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>

@@ -1,77 +1,119 @@
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Campus+Hub;Always+Learning+New+Things)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Campus+Hub;Researching+Project+Suraksha+Bharat;Learning+Everyday+🚀"/>
 
 </p>
-<h1 align="center">Hi 👋, I'm Arshiya Sharma</h1>
+## About Me
 
-<h3 align="center">
-🚀 Full Stack Developer • Cybersecurity Enthusiast • B.Tech CSE
-</h3>
+ B.Tech CSE (Cybersecurity)
+
+ Full Stack MERN Developer
+
+ Passionate about Cybersecurity
+
+ Creator of Campus Hub
+
+ Research Lead — Project Suraksha Bharat
+
+ Currently mastering
+
+• DSA
+
+• System Design
+
+• Cloud
+
+• Networking
+
+• AI
 
 <p align="center">
-Currently building <b>Campus Hub</b> and <b>Project Suraksha Bharat</b>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript,express,tailwind,git,github,vscode,cpp,python,linux"/>
+
 </p>
 
----
+<p align="center">
 
-#  About Me
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akrshu&show_icons=true&theme=tokyonight"/>
 
--  B.Tech CSE (Cybersecurity)
--  MERN Stack Developer
--  Passionate about Cybersecurity
--  Building real-world engineering projects
--  Learning DSA, System Design & Cloud
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akrshu&theme=tokyonight"/>
 
----
+</p>
 
-# Tech Stack
+<p align="center">
 
-### Frontend
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrshu&layout=compact&theme=tokyonight"/>
 
-React • TypeScript • Tailwind CSS • HTML • CSS • JavaScript
+</p>
 
-### Backend
+<p align="center">
 
-Node.js • Express.js • MongoDB
+<img src="https://github-profile-trophy.vercel.app/?username=Akrshu&theme=tokyonight&row=1"/>
 
-### Tools
+</p>
+🏫 Campus Hub
 
-Git • GitHub • VS Code • Postman
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+🛒 Marketplace
 
- ## GitHub Stats
+📚 Tuition Portal
 
-![](https://github-readme-stats.vercel.app/api?username=Akrshu&show_icons=true&theme=tokyonight)
+🗺 Campus Navigation
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akrshu&theme=tokyonight)
+💬 Real-time Messaging
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akrshu&layout=compact&theme=tokyonight)
+🔐 Authentication
 
-# 🌟 Featured Projects
+⭐ Modern UI
 
-## 🏫 Campus Hub
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛡 Project Suraksha Bharat
 
-A modern student platform with:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- Marketplace
-- Tuition Portal
-- Campus Map
-- Messaging
-- Authentication
+🤖 AI
 
----
+📷 Computer Vision
 
-## Project Suraksha Bharat
+🌐 Networking
 
-Research-driven public safety project integrating AI, Networking and Cybersecurity.
+🔒 Cybersecurity
 
----
+☁ Cloud
 
-#  Connect
+🚨 Smart Public Safety
 
-- GitHub : https://github.com/Akrshu
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akrshu&theme=tokyo-night"/>
+<p align="center">
 
----
+<img src="https://raw.githubusercontent.com/Akrshu/Akrshu/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+<p align="center">
+
+<a href="https://github.com/Akrshu">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💙 Thanks for visiting my profile.
+
+Keep Building.
+Keep Learning.
+Keep Growing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

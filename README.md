@@ -1,27 +1,61 @@
-# Hi I'm Arshiya Sharma
+<h1 align="center">Hi 👋, I'm Arshiya Sharma</h1>
 
- MERN Stack Developer
+<h3 align="center">
+🚀 Full Stack Developer • Cybersecurity Enthusiast • B.Tech CSE
+</h3>
 
- Cybersecurity Enthusiast
+<p align="center">
+Currently building <b>Campus Hub</b> and <b>Project Suraksha Bharat</b>
+</p>
 
-  B.Tech CSE
+---
 
-## Current Projects
+#  About Me
 
-• Campus Hub
+-  B.Tech CSE (Cybersecurity)
+-  MERN Stack Developer
+-  Passionate about Cybersecurity
+-  Building real-world engineering projects
+-  Learning DSA, System Design & Cloud
 
-• Project Suraksha Bharat
+---
 
-## Tech Stack
+# Tech Stack
 
-React
+### Frontend
 
-Node.js
+React • TypeScript • Tailwind CSS • HTML • CSS • JavaScript
 
-Express
+### Backend
 
-MongoDB
+Node.js • Express.js • MongoDB
 
-TypeScript
+### Tools
 
-Tailwind
+Git • GitHub • VS Code • Postman
+
+---
+
+# 🌟 Featured Projects
+
+## 🏫 Campus Hub
+
+A modern student platform with:
+
+- Marketplace
+- Tuition Portal
+- Campus Map
+- Messaging
+- Authentication
+
+---
+
+## Project Suraksha Bharat
+
+Research-driven public safety project integrating AI, Networking and Cybersecurity.
+
+---
+
+#  Connect
+
+- GitHub : https://github.com/Akrshu

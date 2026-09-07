@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=ARSHIYA%20SHARMA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20%26%20Pentesting%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="assets/banner-header.svg"/>
 
 <br/>
 
@@ -12,7 +12,13 @@
 ![Followers](https://img.shields.io/github/followers/Akrshu?style=for-the-badge&color=2C5364&labelColor=203A43)
 ![Stars](https://img.shields.io/github/stars/Akrshu?style=for-the-badge&color=58A6FF&labelColor=203A43)
 
+<br/>
+
+> *"The quieter you become, the more you are able to hear."* — every good pentester's motto 🔐
+
 </div>
+
+---
 
 <br/>
 
@@ -162,18 +168,25 @@ Pentest OS  :: Kali Linux (VM)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akrshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrshu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Akrshu&theme=tokyonight&hide_border=true&border_radius=8&fire=A855F7&currStreakLabel=A855F7"/>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akrshu&theme=tokyo-night&hide_border=true"/>
+![Contributions](https://img.shields.io/badge/Total%20Contributions-149-A855F7?style=for-the-badge&logo=github&logoColor=white)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20Days-58A6FF?style=for-the-badge&logo=fire&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-2%20Days-2C5364?style=for-the-badge)
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrshu&theme=tokyonight&hide_border=true"/>
+**🏆 Achievements Unlocked**
+
+![SQLi](https://img.shields.io/badge/🥇-SQL%20Injection%20Bypass-0F2027?style=for-the-badge&labelColor=A855F7)
+![Cracking](https://img.shields.io/badge/🥈-Password%20Cracking%20(Hashcat)-0F2027?style=for-the-badge&labelColor=58A6FF)
+![Recon](https://img.shields.io/badge/🥉-Recon%20%26%20Enumeration-0F2027?style=for-the-badge&labelColor=2C5364)
 
 </div>
+
+> ⚠️ **Note:** the classic `github-readme-stats` "commits / top-languages" card and the `github-profile-trophy` widget are currently rendering as broken images across GitHub in general — their shared public instances got paused after Vercel ended free hosting for them, unrelated to this repo. The stats above use a self-hosted banner + a still-active streak-stats mirror so nothing here depends on those flaky services.
 
 <br/>
 
@@ -202,4 +215,4 @@ Pentest OS  :: Kali Linux (VM)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="assets/banner-footer.svg"/>
